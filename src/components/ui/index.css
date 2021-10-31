@@ -1,0 +1,24 @@
+.txt-color{
+    color:red;
+}
+
+#Alert{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.changeColor {
+    color: black;
+    cursor: pointer;
+
+  }
+
+.changeColor:hover {
+    color: red;
+    cursor: pointer;
+
+  }
+
+
+
+
